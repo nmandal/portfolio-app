@@ -77,3 +77,5 @@
  module.exports = {
    portfolios, fundPrices, fundInformation, allocations
  }
+
+ export {}
