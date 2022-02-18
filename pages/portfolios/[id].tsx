@@ -119,15 +119,15 @@ export const getServerSideProps = async (context) => {
     portfolio: [
       {
         "symbol": "VTI",
-        "shares": 30
+        "shares": 4
       },
       {
         "symbol": "BNDX",
-        "shares": 20
+        "shares": 50
       },
       {
         "symbol": "VNQ",
-        "shares": 20
+        "shares": 25
       }
     ]
   }
